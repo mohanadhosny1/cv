@@ -6,13 +6,17 @@ import { GitHubIcon, LinkedInIcon } from "@/components/icons";
 export const RESUME_DATA = {
   name: "Mohanad Hosny",
   initials: "MH",
+  location: "Giza, Egypt",
+  locationLink: "",
   about:
     "Full Stack Engineer dedicated to building high-quality products.",
   summary:
     "A Full Stack Engineer. Currently, I work mostly with Go, TypeScript, Next.js, and Node.js. I have over 5 years of experience working remotely.",
   avatarUrl: "https://avatars.githubusercontent.com/u/183147601?v=4",
+  personalWebsiteUrl: null,
   contact: {
-    email: "N/A",
+    email: null,
+    tel: null,
     social: [
       {
         name: "GitHub",
