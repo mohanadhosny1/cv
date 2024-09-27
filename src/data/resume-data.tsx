@@ -10,10 +10,10 @@ export const RESUME_DATA = {
   summary:
     "A Full Stack Engineer. Currently, I work mostly with Go, TypeScript, Next.js, and Node.js. I have over 5 years of experience working remotely.",
   avatarUrl: "https://avatars.githubusercontent.com/u/183147601?v=4",
-  personalWebsiteUrl: null,
+  personalWebsiteUrl: "",
   contact: {
-    email: null,
-    tel: null,
+    email: "",
+    tel: "",
     social: [
       {
         name: "GitHub",
