@@ -38,6 +38,7 @@ export const RESUME_DATA = {
   work: [
     {
       company: "Freelancer",
+      link: "https://google.com",
       badges: ["Remote"],
       title: "Backend Developer and Reverse Engineer",
       logo: null,
